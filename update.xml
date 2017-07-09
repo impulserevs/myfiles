@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
-<RevUpdate> 
-    <update appId="TestApp"> 
-        <version>2.0.0.0</version> 
-        <url>http://download1588.mediafire.com/q6dh95uscgcg/24y1t141i8c18f9/RevBooster.exe</url> 
-        <fileName>RevBooster.exe</fileName> 
-        <md5>B8D8A42E024652612514DA0297741E34</md5>
-        <description>NIGGER VERSION</description> 
+<NaryuSIC> 
+    <update appID="NaryuSIC"> 
+        <version>1.0.0.1</version> 
+        <url>https://github.com/impulserevs/myfiles/raw/master/NaryuSIC.exe</url> 
+        <fileName>NaryuSIC.exe</fileName> 
+        <md5>80d9a74852e4a6087342f676a10cba23</md5>
+        <description>1. Fixed some strings</description> 
         <launchArgs></launchArgs> 
     </update> 
-</RevUpdate>
+</NaryuSIC>
