@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <NaryuSIC> 
-    <update appID="OOSix"> 
+    <update appID="DoubloSix"> 
         <version>1.0.0.1</version> 
         <url>https://github.com/impulserevs/myfiles/raw/master/NaryuSIC.exe</url> 
         <fileName>NaryuSIC.exe</fileName> 
