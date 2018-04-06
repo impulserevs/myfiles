@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
-<NaryuSIC> 
-    <update appID="DoubloSix"> 
-        <version>1.0.0.1</version> 
+<OOSix> 
+    <update appId="DoubloSix"> 
+        <version>2.0.0.0</version> 
         <url>https://github.com/impulserevs/myfiles/raw/master/NaryuSIC.exe</url> 
         <fileName>NaryuSIC.exe</fileName> 
         <md5>80d9a74852e4a6087342f676a10cba23</md5>
         <description>1. Fixed some strings</description> 
         <launchArgs></launchArgs> 
     </update> 
-</NaryuSIC>
+</OOSix>
